@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hey, I'm Alfred!
+
+My passion is building things in data, machine learning, and/or finance. I love exploring how code can be used to find patterns, model complex systems, and create something new.
+
+#### A few things I'm currently exploring:
+
+* Using data to understand and predict business outcomes or whatever is interesting
+* Playing with art generation models like Stable Diffusion
+* Finding new ways to price financial options at high speeds
+* Building bots that spot and exploit inefficiencies in real-time markets
+
 
 <!--
 **alfredchleong/alfredchleong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
