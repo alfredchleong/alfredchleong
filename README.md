@@ -1,6 +1,6 @@
 ### Hey, I'm Alfred! 👋
 
-My passion is building things in data, machine learning, and/or finance. I love exploring how code can be used to find patterns, model complex systems, and create something new.
+My passion is building things in fun things!
 
 
 <!--
